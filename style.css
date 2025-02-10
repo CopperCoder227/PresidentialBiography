@@ -3,6 +3,10 @@ html {
   width: 100%;
 }
 
+
+
+
+/*
 body {
 background: url(imgs/backgound.png);
 background-size: cover;
@@ -120,4 +124,9 @@ text-shadow: 2px 2px 5px #000000;
   background-image: -o-linear-gradient(top,  #b43131, #b6953c, #3b8cc5);
   background-image: linear-gradient(to bottom, #b43131, #b6953c, #3b8cc5);
   text-decoration: none;
+}
+
+.imgs{
+    height: 60%;
+    width: 60%;
 }
